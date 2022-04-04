@@ -3,7 +3,8 @@
 
 This is Harsh, I'm interested in Application/Cloud security and source code reviews, also I participate in bug bounties occasionally.
 
-- AppSec at [Vimeo](https://vimeo.com/).
+- Senior Security Engineer
+- Previously - Vimeo, Zomato
 - HackerOne : [Bugdiscloseguys](https://hackerone.com/bugdiscloseguys) (there's a funny story behind that handle).
 - I’m usually seen collaborating with [@iamnoooob](https://github.com/iamnoooob) to find 0days or reverse N-days(CVEs) for fun & learning [here](https://github.com/httpvoid/CVE-Reverse/)
 
